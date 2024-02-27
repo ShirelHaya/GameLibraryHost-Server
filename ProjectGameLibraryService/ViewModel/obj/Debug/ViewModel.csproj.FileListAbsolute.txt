@@ -1,0 +1,67 @@
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\bin\Debug\Model.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\bin\Debug\Model.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\bin\Debug\Model.dll
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\bin\Debug\Model.pdb
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\שיראל חיה ארונין\gameLibraryProject\with estsr hamnik\ProjectGameLibrary\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\סופי\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\סופי\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\סופי\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\tichnut\Documents\ShirelHayaAronin\מעודכן ממסמכים כל יום\סופי\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\bin\Debug\Model.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\bin\Debug\Model.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\שיראל חיה ארונין\מעודכן ממסמכים כל יום\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\Model.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\Model.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\Model.dll
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\Model.pdb
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\tichnut\Documents\שיראל חיה תכנות\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\Model.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\Model.pdb
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\tichnut.DOMAIN\Documents\ShirelHayaTargilim\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\Model.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\bin\Debug\Model.pdb
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\user\Documents\תכנות-מדעי המחשב\תכנות שיראל חיה ארונין יב'\פרויקט ספריי'ת משחקים להגשה\meudcan\ProjectGameLibraryService\ViewModel\obj\Debug\ViewModel.pdb

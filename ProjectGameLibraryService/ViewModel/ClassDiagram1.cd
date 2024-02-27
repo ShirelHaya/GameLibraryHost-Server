@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ViewModel.BaseDB">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAYAAgAAAAAAAAgAKAABEAQAAhQAAAAAAAAAQAAQAAA=</HashCode>
+      <FileName>BaseDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModel.familyDB">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAQAAAAAAAACAAQAAAgAAAAAAAAgAAAAAAAI=</HashCode>
+      <FileName>familyDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModel.gamesDB">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>gamesDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModel.kindsDB">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAII=</HashCode>
+      <FileName>kindsDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModel.Legal">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAAADACAAAQAAAgAAAAAAAABAAAAA=</HashCode>
+      <FileName>Legal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModel.lendingDB">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAAAAAAAAAAAAI=</HashCode>
+      <FileName>lendingDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModel.MyDB">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQACBAA=</HashCode>
+      <FileName>MyDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModel.SQLBuilder">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModel.subscribersDB">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>subscribersDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

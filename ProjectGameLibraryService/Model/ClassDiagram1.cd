@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.BaseEntity">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAA=</HashCode>
+      <FileName>BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.family">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAABAAQAAAAAAwAAAAAAAAAChAQACEAAAIAAAA=</HashCode>
+      <FileName>family.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.games">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgIQAAAAYAAFAAACAAAAIAAACAAAAAEIAAAAAAA=</HashCode>
+      <FileName>games.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.kinds">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAIAAACAEAAAEAAAAAAAA=</HashCode>
+      <FileName>kinds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.lending">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAgAAEiAAAAAAAIAAACQAAAAEAAAAAAAA=</HashCode>
+      <FileName>lending.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.subscribers">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAEAAAAAAAAIAAACgAAAAFAAAAAAAA=</HashCode>
+      <FileName>subscribers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
